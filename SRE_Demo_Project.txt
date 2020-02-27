@@ -15,7 +15,6 @@ Note:
     NAT network port forward implementation mostly done via GUI network editor
     VMware Workstation Player, free version, does not support this feature
     Attached PDF shows GUI network config console.  Consult with network expert on its setup needed.
-    Should revisit this task at later time. 
 
 Attachment:  Task0_network.pdf
 
@@ -37,7 +36,7 @@ Reference:	https://help.ubuntu.com/16.04/serverguide/apt.html
 	sudo reboot 
 	
 	uname -r:   4.4.0-142-generic   (before)
-				4.4.0-174-generic	(after)
+		    4.4.0-174-generic	(after)
 
 Instead of using default console TTY prompt, I've install ubuntu-desktop package on the server 
 	sudo apt install ubuntu-desktop;  
@@ -78,8 +77,8 @@ Attachment:  Task3_group_project.pdf, Task3_project_new.pdf
              Task3_init_add.pdf,  Task3_golang.pdf
 			 
 
-Task 4 through out task 12. will be completed at later time in the next few days. 
-
+copied and checked in files from google drive to github.  Moving on the rest of tasks on the list and 
+revisit/trouble shoot the issues  listed above. 
 
 
 
